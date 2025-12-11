@@ -76,7 +76,9 @@ ClothImage/
 
 Ces assets peuvent être intégrés dans des scripts de magasins de vêtements / barber ou autres projets similaires, permettant d'associer une image au bon assets.
 
-example : bags 8 = 8.png 
+example : bags 8 = 8.png du dossier bags à vous d'adapter votre projet au github 
+
+vous pouvez utilisez cela : https://raw.githubusercontent.com/xBackend/ClothImages/main
 
 
 ## 📝 Format des Fichiers
