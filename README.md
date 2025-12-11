@@ -74,15 +74,8 @@ ClothImage/
 
 ## 🎯 Utilisation
 
-Ces assets peuvent être utilisés dans des projets de personnalisation de personnages, des applications de mode, des jeux vidéo, ou tout autre projet nécessitant une bibliothèque de vêtements.
+Ces assets peuvent être utilisés pour des magasins de vetement ou autre afin d'obtenir chaque chose a sa propre image 
 
-### Exemple d'utilisation
-
-```javascript
-
-const imagePath = './femme/tshirt_1/42.png';
-const imagePath2 = './homme/pants_1/100.png';
-```
 
 ## 📝 Format des Fichiers
 
