@@ -74,7 +74,9 @@ ClothImage/
 
 ## 🎯 Utilisation
 
-Ces assets peuvent être intégrés dans des applications de magasins de vêtements ou autres projets similaires, permettant d'associer une image unique à chaque chose. 
+Ces assets peuvent être intégrés dans des scripts de magasins de vêtements / barber ou autres projets similaires, permettant d'associer une image au bon assets.
+
+example : bags 8 = 8.png 
 
 
 ## 📝 Format des Fichiers
