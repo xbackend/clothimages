@@ -42,7 +42,7 @@ ClothImage/
 
 ### Catégorie Femme
 - **Arms** : 357 images
-- **Bags** : 219 images
+- **Bags** : 220 images
 - **Bodyarmors** : 173 images
 - **Bracelets** : 24 images
 - **Ears** : 43 images
@@ -61,16 +61,16 @@ ClothImage/
 - **Bags** : 177 images
 - **Bodyarmors** : 118 images
 - **Bracelets** : 24 images
-- **Ears** : 43 images
-- **Glasses** : 87 images
-- **Hats** : 293 images
+- **Ears** : 66 images
+- **Glasses** : 95 images
+- **Hats** : 328 images
 - **Masks** : 313 images
 - **Pants** : 480 images
 - **Shoes** : 357 images
 - **Torso** : 240 images
-- **T-shirts** : 90 images
+- **T-shirts** : 1193 images
 - **Undershirts** : 313 images
-- **Watches** : 41 images
+- **Watches** : 67 images
 
 ## 🎯 Utilisation
 
