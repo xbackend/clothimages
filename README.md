@@ -74,7 +74,7 @@ ClothImage/
 
 ## 🎯 Utilisation
 
-Ces assets peuvent être utilisés pour des magasins de vetement ou autre afin d'obtenir chaque chose a sa propre image 
+Ces assets peuvent être intégrés dans des applications de magasins de vêtements ou autres projets similaires, permettant d'associer une image unique à chaque chose. 
 
 
 ## 📝 Format des Fichiers
