@@ -1,0 +1,39 @@
+|----------------------------------------------------------------|
+|                       RED & BLUE                               |
+|----------------------------------------------------------------|
+|    VEHICLE NAME           |           SPAWN CODE               |
+|----------------------------------------------------------------|
+- Vapid stanier             = hvstanier
+- Police Cruiser            = hvpolice3
+- Buffalo STX               = hvbuffaloxt4
+- Dominator GTX             = hvpdom3
+- Vapid Scout 20            = hvscout20
+- Vapid caracara            = hvcara2
+- Canis Terminus            = hvterminus
+- Gauntlet Hellfire         = hvgaunt
+- Obey Omnis e-GT           = hvomnisegt
+- Bravado gresley           = hvbravadoxl
+- Vapid Aleutian            = hvaleutian
+- DominatorGTR              = hvdominatorgtr
+- Nagaski motorbike         = hvnagv2
+- Police Maverick           = hvpolmav
+|----------------------------------------------------------------|
+|                       BLUE & BLUE                              |
+|----------------------------------------------------------------|
+|    VEHICLE NAME           |           SPAWN CODE               |
+|----------------------------------------------------------------|
+- Vapid stanier             = hvstanierbb
+- Police Cruiser            = hvpolice3bb
+- Buffalo STX               = hvbuffaloxt4bb
+- Dominator GTX             = hvpdom3bb
+- Vapid Scout 20            = hvscout20bb
+- Vapid caracara            = hvcara2bb
+- Canis Terminus            = hvterminusbb
+- Gauntlet Hellfire         = hvgauntbb
+- Obey Omnis e-GT           = hvomnisegtbb
+- Bravado gresley           = hvbravadoxlbb
+- Vapid Aleutian            = hvaleutianbb
+- DominatorGTR              = hvdominatorgtrbb
+- Nagaski motorbike         = hvnagv2bb
+- Police Maverick           = hvpolmav
+|----------------------------------------------------------------|
