@@ -96,4 +96,7 @@ Pour utiliser ces assets dans votre projet :
 
 1. Utilisez les numéros d'index pour charger dynamiquement les images
 
+## 💻 Work Stats
+
+![Backend's Github stats](https://github-readme-stats.vercel.app/api?username=xBackend&show_icons=true)
 
